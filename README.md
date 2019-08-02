@@ -1,5 +1,5 @@
 # Read the documentation
-Click [here](http://ziller.rf.gd) to read the documentation.
+Click [here](https://vdevel00.github.io/ziller/) to read the documentation.
 
 # ziller
 Ziller is an Android application that can identify Zombies, and help you to kill them.
